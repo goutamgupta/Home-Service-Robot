@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- For launching teleop -->
+
+<launch>
+  <node name="teleop" pkg="my_bot" type="teleop" output="screen"/>
+</launch>
+
